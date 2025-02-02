@@ -125,19 +125,20 @@ This project analyzes **OLA rides data** using **SQL** and **Power BI**, creatin
 ## 📷 Dashboard Screenshots 
 
 ![Dashboard 1](https://github.com/lakshayNewatia/Ola-Trip-Data-Analysis/blob/c3470021d6c94f346f541e604359337f321e08fe/Overall.png)
-
+📌 Overview of total searches, conversion rates, trip completions, and booking statuses.
 
 ![Dashboard 2](https://github.com/lakshayNewatia/Ola-Trip-Data-Analysis/blob/c3470021d6c94f346f541e604359337f321e08fe/Vehicle%20Type.png)
-
+📌 Insights into completed trips, average distance, and earnings for each vehicle type.
 
 ![Dashboard 3](https://github.com/lakshayNewatia/Ola-Trip-Data-Analysis/blob/c3470021d6c94f346f541e604359337f321e08fe/Revenue.png)
+📌 Breakdown of total revenue by payment method and vehicle type.
+
+![Dashboard 4](https://github.com/lakshayNewatia/Ola-Trip-Data-Analysis/blob/c3470021d6c94f346f541e604359337f321e08fe/Cancellations.png)
+📌 Analysis of cancellation reasons by both customers and drivers, and cancellation distribution across vehicle types.
+
+![Dashboard 5](https://github.com/lakshayNewatia/Ola-Trip-Data-Analysis/blob/c3470021d6c94f346f541e604359337f321e08fe/Ratings.png)
+📌 Overview of average ratings for each vehicle type, highlighting customer satisfaction levels.
 
 ## 📜 Technologies Used  
 - **SQL** (for data extraction and transformation)  
 - **Power BI** (for data visualization)  
-
-
-![Dashboard 4](https://github.com/lakshayNewatia/Ola-Trip-Data-Analysis/blob/c3470021d6c94f346f541e604359337f321e08fe/Cancellations.png)
-
-
-![Dashboard 5](https://github.com/lakshayNewatia/Ola-Trip-Data-Analysis/blob/c3470021d6c94f346f541e604359337f321e08fe/Ratings.png)
