@@ -39,7 +39,7 @@ This project analyzes **OLA rides data** using **SQL** and **Power BI**, creatin
 ## Dashboard Insights  
 
 ### 🔹 Searches and Conversion Rate  
-- **Total searches:** 2,161K  
+- **Total searches:** 2.161K  
 - **Conversion rate:** 45%  
 
 ### 🔹 Completed Trips  
